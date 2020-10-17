@@ -26,7 +26,7 @@ layout: default
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STONEWALL%20X2.png" class=responsive width="550" height="300" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STONEWALL%20X2(3).png" class=responsive width="550" height="300" maxheight="300" />
 </p>
 
 

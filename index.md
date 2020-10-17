@@ -14,7 +14,6 @@ layout: default
 
 
 
-
 ## Transactions
 
 
@@ -22,7 +21,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/CPFP.png" class=responsive width="550" height="300" maxheight="300" />
 </p>
 
-
+***
 
 
 ## Wallets
@@ -33,7 +32,7 @@ layout: default
 </p>
 
 
-
+***
 
 
 ## Nodes
@@ -42,6 +41,7 @@ layout: default
 <p align="center">
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/V4.png" class=responsive width="550" height="300" maxheight="300" />
 </p>
+
 
 
 <p align="center">
@@ -54,7 +54,7 @@ layout: default
 </p>
 
 
-
+***
 
 
 ## Samourai

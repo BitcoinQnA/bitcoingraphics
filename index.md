@@ -26,7 +26,7 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison.png" class=responsive width="550" height="300" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison.png" class=responsive width="650" height="400" maxheight="400" />
 </p>
 
 
@@ -37,7 +37,7 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/V4.png" class=responsive width="550" height="300" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/V4.png" class=responsive width="650" height="400" maxheight="400" />
 </p>
 
 

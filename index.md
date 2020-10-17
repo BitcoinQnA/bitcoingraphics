@@ -25,7 +25,6 @@ layout: default
 </p>
 
 
-<br/>
 
 
 ## Wallets
@@ -36,7 +35,7 @@ layout: default
 </p>
 
 
-<br/>
+
 
 
 ## Nodes
@@ -57,7 +56,7 @@ layout: default
 </p>
 
 
-<br/>
+
 
 
 ## Samourai
@@ -92,7 +91,7 @@ layout: default
 </p>
 
 
-<br/>
+
 
 
 

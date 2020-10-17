@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<br/>
-
 | Category                   | Description                                                                |
 |----------------------------|----------------------------------------------------------------------------|
 | [Transactions](#transactions)   | Graphical explainers of terms relating to bitcoin transactions        |

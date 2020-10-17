@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <br/>
 
 | Category                   | Description                                                                |
@@ -58,7 +59,9 @@ layout: default
 
 <br/>
 
+
 ## Samourai
+
 
 
 <p align="center">

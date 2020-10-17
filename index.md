@@ -13,7 +13,7 @@ layout: default
 
 
 
-## Transactions
+### Transactions
 
 
 <p align="center">
@@ -44,7 +44,7 @@ layout: default
 ***
 
 
-## Wallets
+### Wallets
 
 
 <p align="center">
@@ -55,7 +55,7 @@ layout: default
 ***
 
 
-## Nodes
+### Nodes
 
 
 <p align="center">
@@ -82,7 +82,7 @@ layout: default
 
 ***
 
-## Lightning
+### Lightning
 
 
 

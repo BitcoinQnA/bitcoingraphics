@@ -52,6 +52,12 @@ layout: default
 </p>
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/SW%20accounts.png" class=responsive width="550" height="300" maxheight="400" />
+</p>
+
+
+
 ***
 
 

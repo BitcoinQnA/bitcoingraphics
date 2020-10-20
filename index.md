@@ -30,7 +30,7 @@ layout: default
 </p>
 
 
-<p align="center"4
+<p align="center">
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STOWAWAY.png" class=responsive width="650" height="400" maxheight="300" />
 </p>
 

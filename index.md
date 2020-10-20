@@ -17,26 +17,26 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/CPFP.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/CPFP.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Stonewall.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Stonewall.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STONEWALL%20X2(3).png" class=responsive width="650" height="400" maxheight="300" />
-</p>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STOWAWAY.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STONEWALL%20X2(3).png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Ricochet.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/STOWAWAY.png" class=responsive width="650" height="350" maxheight="300" />
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Ricochet.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 
@@ -48,12 +48,12 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison.png" class=responsive width="650" height="400" maxheight="400" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison.png" class=responsive width="650" height="350" maxheight="400" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/SW%20accounts.png" class=responsive width="650" height="400" maxheight="400" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/SW%20accounts.png" class=responsive width="650" height="350" maxheight="400" />
 </p>
 
 
@@ -65,23 +65,23 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/V4.png" class=responsive width="650" height="400" maxheight="400" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/V4.png" class=responsive width="650" height="350" maxheight="400" />
 </p>
 
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/RD%20Stack.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/RD%20Stack.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/The%20Samourai%20Stack.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/The%20Samourai%20Stack.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/The%20myNode%20Stack%20Explained.png" class=responsive width="650" height="400" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/The%20myNode%20Stack%20Explained.png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 

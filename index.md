@@ -15,6 +15,10 @@ layout: default
 
 ### Transactions
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/A%20basic%20transaction.png" class=responsive width="650" height="350" maxheight="300" />
+</p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/CPFP.png" class=responsive width="650" height="350" maxheight="300" />

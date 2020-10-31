@@ -4,6 +4,7 @@ layout: default
 
 | Category                   | Description                                                                |
 |----------------------------|----------------------------------------------------------------------------|
+| [General](#general)             | General Bitcoin terms                                                 |
 | [Transactions](#transactions)   | Graphical explainers of terms relating to bitcoin transactions        |
 | [Wallets](#wallets)             | Graphical explainers of terms relating to wallets                     |
 | [Nodes](#nodes)                 | Graphical explainers of terms relating to nodes                       |
@@ -11,7 +12,11 @@ layout: default
 
 
 
+### General
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/UTXO.png" class=responsive width="650" height="350" maxheight="300" />
+</p>
 
 ### Transactions
 
@@ -94,7 +99,16 @@ layout: default
 
 ### Lightning
 
+Coming soon...
 
+***
+
+<p align="center">
+  <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
+  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
+  <a href="https://github.com/BitcoinQnA/bitcoingraphics">Suggestions Welcome</a>
+  <br><br>
+</p>
 
 
 

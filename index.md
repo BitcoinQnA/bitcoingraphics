@@ -15,7 +15,7 @@ layout: default
 ### General
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/UTXO.png" class=responsive width="650" height="350" maxheight="300" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/UTXO(1).png" class=responsive width="650" height="350" maxheight="300" />
 </p>
 
 ### Transactions

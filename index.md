@@ -62,6 +62,11 @@ layout: default
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Dust%20attacks(3).png" class=responsive width="650" height="350" maxheight="300" />
+</p>
+
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/SW%20accounts.png" class=responsive width="650" height="350" maxheight="400" />
 </p>
 

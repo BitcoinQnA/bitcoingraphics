@@ -57,7 +57,7 @@ layout: default
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison.png" class=responsive width="650" height="400" maxheight="400" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/Wallet%20comparison1.png" class=responsive width="650" height="400" maxheight="400" />
 </p>
 
 

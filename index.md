@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoingraphics/master/assets/images/BG.png)](https://bitcoingraphics.page)
+
+
 | Category                   | Description                                                                |
 |----------------------------|----------------------------------------------------------------------------|
 | [General](#general)             | General Bitcoin terms                                                 |

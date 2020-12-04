@@ -113,7 +113,7 @@ Coming soon...
 
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
-  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
+  <a href="https://bqa.duckdns.org:20486/apps/96ZvtoJQr9bz5QyeDoUfhkmNTLZ/pos">Support</a> |
   <a href="https://github.com/BitcoinQnA/bitcoingraphics">Suggestions</a>
   <br><br>
 </p>
